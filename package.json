@@ -29,7 +29,7 @@
         ]
       },
       "electronPackagerConfig": {
-        "packageManager": "npm"
+        "asar": true
       },
       "electronWinstallerConfig": {
         "name": "notepad"
